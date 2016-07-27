@@ -1,0 +1,26 @@
+c:\users\it_unit\documents\visual studio 2012\Projects\project_group\project_group\bin\Debug\project_group.exe.config
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\obj\Debug\project_group.csprojResolveAssemblyReference.cache
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\obj\Debug\project_group.Form1.resources
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\obj\Debug\project_group.Properties.Resources.resources
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\obj\Debug\project_group.csproj.GenerateResource.Cache
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\bin\Debug\project_group.exe
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\bin\Debug\project_group.pdb
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\obj\Debug\project_group.Form_check.resources
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\obj\Debug\project_group.exe
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\obj\Debug\project_group.pdb
+C:\Users\IT_UNIT\Documents\Visual Studio 2012\Projects\project_group\project_group\obj\Debug\project_group.Form3.resources
+C:\Users\ZAS\Desktop\project_group\project_group\bin\Debug\project_group.exe.config
+C:\Users\ZAS\Desktop\project_group\project_group\obj\Debug\project_group.exe
+C:\Users\ZAS\Desktop\project_group\project_group\obj\Debug\project_group.pdb
+C:\Users\ZAS\Desktop\project_group\project_group\obj\Debug\project_group.csprojResolveAssemblyReference.cache
+C:\Users\ZAS\Desktop\project_group\project_group\obj\Debug\project_group.Form1.resources
+C:\Users\ZAS\Desktop\project_group\project_group\obj\Debug\project_group.Form4.resources
+C:\Users\ZAS\Desktop\project_group\project_group\obj\Debug\project_group.Properties.Resources.resources
+C:\Users\ZAS\Desktop\project_group\project_group\obj\Debug\project_group.csproj.GenerateResource.Cache
+F:\project_group\project_group\bin\Debug\project_group.exe.config
+F:\project_group\project_group\obj\Debug\project_group.exe
+F:\project_group\project_group\obj\Debug\project_group.csprojResolveAssemblyReference.cache
+F:\project_group\project_group\obj\Debug\project_group.Form1.resources
+F:\project_group\project_group\obj\Debug\project_group.Form4.resources
+F:\project_group\project_group\obj\Debug\project_group.Properties.Resources.resources
+F:\project_group\project_group\obj\Debug\project_group.csproj.GenerateResource.Cache
